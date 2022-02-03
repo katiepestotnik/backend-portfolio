@@ -1,0 +1,27 @@
+[{
+    "name": "Explore Nasa",
+    "live": "https://explore-nasa.herokuapp.com/",
+    "image": "https://imgur.com/bx9ceOC",
+    "showcase": "Static frontend with Javascript, jQuery, HTML, CSS."
+}, {
+    "name": "My Japanese Library",
+    "live": "https://my-japanese-library.herokuapp.com/",
+    "image": "https://imgur.com/GvMJjzI",
+    "showcase":"Full stack with Express and Embedded Javascript(EJS)"
+    }, {
+    "name": "The Registry",
+    "live": "https://the-registry.netlify.app/",
+    "image": "https://imgur.com/xovzw0N",
+    "showcase": "Full stack React and Express built as a team using Agile development."
+    }, {
+    "name": "The Dream Achiever",
+    "live": "https://the-dream-achiever.netlify.app/",
+    "image": "https://imgur.com/NuqZB76",
+    "showcae": "Full stack with Ruby on Rails and React."
+    }, {
+    "name": "Movie Reviewer",
+    "live": "https://expo.dev/@katiepestotnik/movie-reviewer",
+    "image": "https://imgur.com/ih7WpAK",
+    "showcase": "Mobile full stack with React Native and Express."
+    
+}]
