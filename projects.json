@@ -17,7 +17,7 @@
     "name": "The Dream Achiever",
     "live": "https://the-dream-achiever.netlify.app/",
     "image": "https://i.imgur.com/NuqZB76.png",
-    "showcae": "Full stack with Ruby on Rails and React."
+    "showcase": "Full stack with Ruby on Rails and React."
     }, {
     "name": "Movie Reviewer",
     "live": "https://expo.dev/@katiepestotnik/movie-reviewer",
